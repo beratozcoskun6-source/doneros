@@ -35,4 +35,4 @@ Bu proje, emektar **Dell Inspiron N5110** üzerinde büyük bir emekle geliştir
 ## 👨‍💻 Geliştirici
 *   **Berat** ([@beratozcoskun6-source](https://github.com/beratozcoskun6-source))
 
-##⚠️ **ÖNEMLİ UYARI:** Bu projenin telif hakları tamamen Berat'a aittir. Kodların kopyalanması (fork edilmesi), başka yerlerde izinsiz paylaşılması veya kullanılması kesinlikle yasaktır!
+## ⚠️ ÖNEMLİ UYARI: Bu projenin telif hakları tamamen Berat'a aittir. Kodların kopyalanması (fork edilmesi), başka yerlerde izinsiz paylaşılması veya kullanılması kesinlikle yasaktır!
